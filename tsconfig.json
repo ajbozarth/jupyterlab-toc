@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
     "declaration": true,
+    "composite": true,
     "noImplicitAny": true,
     "strictNullChecks": true,
     "skipLibCheck": true,
